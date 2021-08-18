@@ -12,4 +12,4 @@ def knap(wt,val,n,w):
     print(dp)
     return dp[n][w]
 
-print(knap([1,3,4,5],[1,4,5,7],4,7))
+print(knap([1,3,4,5],[1,6,5,7],4,7))
