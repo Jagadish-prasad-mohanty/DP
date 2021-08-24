@@ -29,7 +29,7 @@ const longSubcMemo = (A,B,n,m)=>{
         }
     }
     console.log(dp);
-    return dp[n][m]
+    return m+n-dp[n][m]
     
 }
 
