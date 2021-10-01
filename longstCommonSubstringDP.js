@@ -44,4 +44,4 @@ const lcs= (A,B,n,m) =>{
 
 }
 
-console.log(lcs('abcdfce','abfce',7,5));
+console.log(lcs('abcdfcee','abfcef',8,6));
